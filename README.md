@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SaumilAgrawal
+- 👋 Hi, I’m @NeurlNet
 - 👀 I’m interested in Coding , Learning , AI,ML,Neural Networks,Experimenting,Having fun,Studying Mathematics and learning.
 - 🌱 I’m currently learning more about ML and AI 
 
