@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @NeurlNet
 - 👀 I’m interested in Coding , Deep Learning, Machine Learning.
 - ⚙️ I love making things like model aircraft 🛩️ and LEGO sets. 
-- 🌱 I’m currently learning more about Computer Vision, Natural Language Processing 
+- 🌱 I’m currently learning more about Computer Vision, Natural Language Processing
+- 👨🏼‍💻 Visit my Kaggle Profile `https://kaggle.com/saumilagrawal10`
 
 
 <!---
