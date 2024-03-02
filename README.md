@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @NeurlNet
-- 👀 I’m interested in Coding , Learning , AI,ML,Neural Networks,Experimenting,Having fun,Studying Mathematics and learning.
-- 🌱 I’m currently learning more about ML and AI 
+- 👀 I’m interested in Coding , Deep Learning, Machine Learning.
+- ⚙️ I love making things like model aircraft 🛩️ and LEGO sets. 
+- 🌱 I’m currently learning more about Computer Vision, Natural Language Processing 
 
 
 <!---
