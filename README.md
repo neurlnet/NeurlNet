@@ -4,7 +4,7 @@
 - ⚙️ I love making things like model aircraft 🛩️ and LEGO sets. 
 - 🌱 I’m currently learning more about Computer Vision, Natural Language Processing and Web Design
 - 📱 I'm trying to learn iOS and Android App development
-- 👨🏼‍💻 Visit my Kaggle Profile `https://kaggle.com/saumilagrawal10`
+
 
 
 <!---
